@@ -3,4 +3,4 @@ Projeto feito como desafio para a parte do Chatgpt, para que possamos transforma
 
 Todo o link do notebook colab esta nesse link abaixo: 
 
-[texto](https://colab.research.google.com/drive/12By4wQAx28PCWDT5yp-lGbQ-vk7sfPgF?usp=sharing)
+[link do notebook colab](https://colab.research.google.com/drive/12By4wQAx28PCWDT5yp-lGbQ-vk7sfPgF?usp=sharing)
